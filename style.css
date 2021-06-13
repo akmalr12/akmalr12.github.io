@@ -50,7 +50,7 @@ nav h1 {
 body {background-color: #D3D3D3;
 
 }
-h2 { color: black;
+h2 { color: 	rgb(249, 0, 255);
 	 font-family : "Cambria", Serif;
 	 font-size : 35px;
 	 text-align: left;
@@ -64,7 +64,7 @@ h3 { text-align: center;
 	 text-decoration: underline;
 }
 p { text-align: justify;
-	color: black;
+	color: 	rgb(249, 0, 255);
 	background-color: dark-gray;
 	margin: 25px 25px 25px 25px;
 	padding-top: 5px;
@@ -73,7 +73,7 @@ p { text-align: justify;
 	padding-left: 30px;
 }
 tr { font-size: 20px;
-	 color: #0000A0;
+	 color: 	rgb(249, 0, 255);
 }
 table { border-color: gray;
 		border-width: 2px;
